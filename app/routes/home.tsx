@@ -37,6 +37,7 @@ export default function Home() {
             setResumes(parsedResumes || []);
             setLoadingResumes(false);
         };
+        loadResumes();
     }, []);
 
     return (
