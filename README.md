@@ -1,6 +1,6 @@
 # CV Analyzer
 
-**Resumind** is an intelligent resume analysis tool designed to help job seekers optimize their CVs. By uploading a PDF, users receive instant, detailed feedback on their resume's **Tone, Content, Structure, and Skills**. It also provides an **ATS (Applicant Tracking System)** compatibility score to ensure resumes get past automated filters and reach human recruiters.
+Resumind is an intelligent resume analysis tool designed to help job seekers optimize their CVs. By uploading a PDF, users receive instant, detailed feedback on their resume's **Tone, Content, Structure, and Skills**. It also provides an **ATS (Applicant Tracking System)** compatibility score to ensure resumes get past automated filters and reach human recruiters.
 
 ## Link to Live Demo
 
